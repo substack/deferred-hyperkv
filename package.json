@@ -18,5 +18,17 @@
   "dependencies": {
     "duplexify": "^3.4.5",
     "inherits": "^2.0.1"
-  }
+  },
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/substack/deferred-hyperkv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/substack/deferred-hyperkv/issues"
+  },
+  "homepage": "https://github.com/substack/deferred-hyperkv#readme"
 }
